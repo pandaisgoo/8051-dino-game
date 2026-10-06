@@ -1,0 +1,30 @@
+# SDCC build outputs
+/firmware/*.asm
+/firmware/*.rel
+/firmware/*.lst
+/firmware/*.rst
+/firmware/*.sym
+/firmware/*.map
+/firmware/*.mem
+/firmware/*.lk
+/firmware/*.lnk
+/firmware/*.hex
+/firmware/*.ihx
+/firmware/*.adb
+/firmware/*.cdb
+/firmware/*.omf
+
+# Documents and archives excluded from this source repository
+*.pdf
+*.zip
+*.tar.gz
+
+# Editor and operating-system files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+Desktop.ini

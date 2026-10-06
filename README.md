@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 8051 Dino Game
 
 **C / 8051 Assembly · Preemptive Multithreading · SDCC · EdSim51**
@@ -216,3 +217,7 @@ LCD 驅動使用 4-bit 傳輸。
 
 - [EdSim51 使用指南](https://edsim51.com/users-guide-2/)
 - [SDCC 官方網站](https://sdcc.sourceforge.net/)
+=======
+# 8051-dino-game
+play dinosaur game in 8051
+>>>>>>> origin/main
